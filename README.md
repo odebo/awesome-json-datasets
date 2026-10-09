@@ -74,6 +74,7 @@ A curated list of awesome JSON datasets that don't require authentication.
 > Protip: [https://mtgjson.com](https://mtgjson.com) lists many more Magic: The Gathering card data sets, as well as zipped versions of all sets.
 
 * [Steam Player Number](https://api.steampowered.com/ISteamUserStats/GetNumberOfCurrentPlayers/v0001/?format=json&appid=0)
+* [Planet Zoo 2 Animal and Habitat Data](https://raw.githubusercontent.com/odebo/planet-zoo-2-dataset/main/data/animals.json)
 
 ## GitHub API
 * [Emojis](https://api.github.com/emojis)
