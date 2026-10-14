@@ -118,6 +118,10 @@ A curated list of awesome JSON datasets that don't require authentication.
 
 > Pro Tip: At [https://datos.gob.es/](https://datos.gob.es/catalogo?res_format_label=JSON) you can filter all kinds of public Spanish data. From universities to local and regional government institutions.
 
+* United States Traffic Courts
+  * [City courts, official payment portals, fine notes, points and traffic-school eligibility (54 cities across 21 states)](https://ticketsimplified.com/data/cities.json)
+  * [State point systems and whether a traffic course dismisses, withholds, only cuts points, or does not exist (21 states)](https://ticketsimplified.com/data/states.json)
+
 ## Historical Events
 * Languages
   * [English](http://www.vizgr.org/historical-events/search.php?format=json&begin_date=-3000000&end_date=20151231&lang=en)
